@@ -6,12 +6,13 @@
 * Criar o primeiro repositório no github. ✔️
 
 ### **Certificados**
-* [Introdução à Programação e Pensamento Computacional](/Certificados/1.pdf) ✔️
-* Introdução ao Git e ao GitHub ✔️
-* Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso ✔️
+* [Introdução à Programação e Pensamento Computacional](https://www.dio.me/certificate/8FA84587) ✔️
+* [Introdução ao Git e ao GitHub](https://www.dio.me/certificate/14D43B55) ✔️
+* [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://www.dio.me/certificate/E966A1F0) ✔️
 * Introdução a criação de websites com HTML5 e CSS3
 
 ### **Anotações**
+* [Gerais](/Anotacoes/1.txt)
 
 ## Anexos
 

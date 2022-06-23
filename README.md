@@ -6,9 +6,9 @@
 * [Criar o primeiro repositório no github](https://github.com/TravassosMT/FullStack-Santander.git) ✔️
 
 ### **Certificados**
-* [Introdução à Programação e Pensamento Computacional](/1.pdf) ✔️
-* [Introdução ao Git e ao GitHub](/2.pdf) ✔️
-* [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](/3.pdf) ✔️
+* [Introdução à Programação e Pensamento Computacional](/Certificados/1.pdf) ✔️
+* [Introdução ao Git e ao GitHub](/Certificados/2.pdf) ✔️
+* [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](/Certificados/3.pdf) ✔️
 * Introdução a criação de websites com HTML5 e CSS3
 
 ### **Anotações**

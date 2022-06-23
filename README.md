@@ -1,7 +1,7 @@
 # FullStack-Santander
 
 ### **Projetos**
-* [Site Pessoal - Aulas de HTML](/Site curso HTML CSS3/Home.html)
+* [Site Pessoal - Aulas de HTML](/Sitehtml/Home.html)
 ### **Desafios**
 * [Criar o primeiro repositório no github](https://github.com/TravassosMT/FullStack-Santander.git) ✔️
 

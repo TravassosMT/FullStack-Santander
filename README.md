@@ -12,7 +12,7 @@
 * Introdução a criação de websites com HTML5 e CSS3
 
 ### **Anotações**
-* [Gerais](/Gerais)
+* [Gerais](/Anotacoes/Gerais.txt)
 
 ## Anexos
 

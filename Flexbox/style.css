@@ -1,0 +1,10 @@
+﻿body {
+    background-color: antiquewhite;
+}
+
+#title {
+    color: #0094ff;
+    font-style: oblique;
+    text-align: center;
+    font-size: 60px;
+}
